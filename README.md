@@ -1,0 +1,2 @@
+# voicevox_autogen
+ testcode
