@@ -1,3 +1,6 @@
 .vscode
 .venv
 .DS_Store
+data/src/00*
+data/out/*
+utils/select_author.py
